@@ -4,7 +4,7 @@ public class Nursery
        {
           int n=99;
           int i;
-          for(i=99;i>0;i--)
+          for(i=n;i>0;i--)
             {  
                if(i>1)
                {
